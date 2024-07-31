@@ -83,20 +83,20 @@
     }
  
     .col-lg-4 {
-      width: 33.33%;
+      width: 30%;
     }
   }
   
   /********** Medium only **********/
   @media (min-width: 768px) and (max-width: 991px) {
     .col-md-6 {
-      width: 50%;
+      width: 47%;
       float: left;
       margin: 12px;
     }
     
     .col-md-12 {
-      width: 100%;
+      width: 96.5%;
       float: left;
       margin: 12px;
           }
@@ -107,9 +107,4 @@
    .col-sm-12 {
       width: 100%;
     }
-  }
-
-  .container{
-    box-sizing: border-box;
-    width: 100%;
   }
